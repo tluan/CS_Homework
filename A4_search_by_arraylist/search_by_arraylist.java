@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-public class test {
+public class search_by_arraylist {
 
 
     public static void main(String[] args){
