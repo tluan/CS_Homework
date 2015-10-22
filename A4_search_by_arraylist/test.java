@@ -1,10 +1,5 @@
 /**
- * Assignment 4
- * Name:    Tu Luan
- * E-mail:  tluan@brynmawr.edu
- * Course:      CS 206
- * Submitted:   10.4.2015
- *
+ 
  * This is the driver file for the program
  * This program is used to search the information by inputting town and state
  */
