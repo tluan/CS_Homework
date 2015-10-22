@@ -1,12 +1,7 @@
 
 
 /*****************************************
- * Assignment 3
- * Name:    Tu Luan
- * E-mail:  tluan@brynmawr.edu
- * Course:      CS 206 
- * Submitted:    Sep 27, 2015
- *
+
  * The main driver program for project3
  * The program searchs for given zip code
  * By the way, do I need spaces in both sides of "=="?
@@ -14,7 +9,7 @@
 import java.io.*;
 import javax.swing.JOptionPane;
 
-public class readfile1 {
+public class search_by_array {
 	static Place[] place;
 	static int i;
 	static int k = 0;
